@@ -1,0 +1,14 @@
+E:\My programs\C# projects\sortingAlgorithmVisualizer\bin\Debug\sortingAlgorithmVisualizer.exe.config
+E:\My programs\C# projects\sortingAlgorithmVisualizer\bin\Debug\sortingAlgorithmVisualizer.exe
+E:\My programs\C# projects\sortingAlgorithmVisualizer\bin\Debug\sortingAlgorithmVisualizer.pdb
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.csprojAssemblyReference.cache
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.Form1.resources
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.Properties.Resources.resources
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.csproj.GenerateResource.cache
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.csproj.CoreCompileInputs.cache
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.exe
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.pdb
+E:\My programs\C# projects\sortingAlgorithmVisualizer\bin\Debug\sortingAlgorithmVisualizer.exe.manifest
+E:\My programs\C# projects\sortingAlgorithmVisualizer\bin\Debug\sortingAlgorithmVisualizer.application
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.exe.manifest
+E:\My programs\C# projects\sortingAlgorithmVisualizer\obj\Debug\sortingAlgorithmVisualizer.application
